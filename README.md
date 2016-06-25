@@ -11,4 +11,5 @@ Irregular Grid Interpolator - интерполяция табличных дан
 
 Для работы программы требуется Microsoft .NET Framework версии 3.5 или выше.
 
-[](/Screenshots/window1.jpg)
+<br>
+![](/Screenshots/window1.jpg)
