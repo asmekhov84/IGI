@@ -10,3 +10,5 @@ Irregular Grid Interpolator - интерполяция табличных дан
 Для интерполяции данных программа использует методы библиотеки ALGLIB (©Sergey Bochkanov, ALGLIB Project, www.alglib.net), распространяемой по лицензии GNU/GPL (файл alglibnet2.dll). Для визуализации поверхности используется библиотека OpenGL, доступ к которой производится через функции библиотеки OpenTK (файл OpenTK.dll).
 
 Для работы программы требуется Microsoft .NET Framework версии 3.5 или выше.
+
+/Screenshots/window1.jpg
