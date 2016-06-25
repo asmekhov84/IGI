@@ -13,3 +13,4 @@ Irregular Grid Interpolator - интерполяция табличных дан
 
 <br>
 ![](/Screenshots/window1.jpg)
+![](/Screenshots/window2.jpg)
